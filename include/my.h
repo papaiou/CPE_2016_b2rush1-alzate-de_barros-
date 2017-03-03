@@ -11,6 +11,7 @@
 #ifndef MY_H_
 # define MY_H_
 
-
+char  *get_next_line(const int fd);
+char  **my_str_to_wortab(char *str);
 
 #endif /* !MY_H_ */
