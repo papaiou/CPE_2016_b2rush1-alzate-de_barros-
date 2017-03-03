@@ -1,11 +1,11 @@
 /*
-** gnl.c for get_next_line in /home/hazard_v/rendu/CPE/CPE_2016_getnextline
+** gnl.c for get_next_line in /home/alzate_j/projects/CPE/2016_CPE_b2rush1/srcs
 ** 
-** Made by Victor Hazard
-** Login   <hazard_v@epitech.net>
+** Made by jacques alzate
+** Login   <alzate_j@epitech.net>
 ** 
-** Started on  Thu Jan  5 09:48:24 2017 Victor Hazard
-** Last update Tue Feb  7 15:45:57 2017 Victor Hazard
+** Started on  Thu Jan  5 09:48:24 2017 jacques alzate
+** Last update Tue Feb  7 15:45:57 2017 jacques alzate
 */
 
 #include "gnl.h"
