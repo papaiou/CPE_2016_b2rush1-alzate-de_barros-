@@ -89,11 +89,6 @@ int	main(int ac, char **av)
     }
   if ((arguments = fill_arguments(ac, av, arguments)) == NULL)
     return (84);
-  while (av[i])
-    {
-      printf("%s\n", arguments[i]);
-      i++;
-    }
   if (Check_Arg(arguments) == 84)
     return (84);
   free_tab(arguments, ac);
