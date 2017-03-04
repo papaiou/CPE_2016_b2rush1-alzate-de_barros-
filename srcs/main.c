@@ -78,10 +78,8 @@ void	free_tab(char **tab, int ac)
 int	main(int ac, char **av)
 {
   char	**arguments;
-  int	i;
 
   arguments = NULL;
-  i = 1;
   if (ac < 2)
     {
       write (2, "Not enough arguments\n", 21);
